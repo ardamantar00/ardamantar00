@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Skills
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,scss,js,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,scss,js,typescript,react,bootstrap" />
 
 ---
 
