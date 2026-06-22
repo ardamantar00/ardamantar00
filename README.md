@@ -1,17 +1,22 @@
 <h1>Hi 👋, I'm Arda Mantar</h1>
-<h3>3rd Year Computer Engineering Student | Fullstack Developer</h3>
+<h3>4th Year Computer Engineering Student | Fullstack Developer</h3>
 
 ---
 
 ## 💻 About Me
-- 🎓 3rd-year Computer Engineering student  
-- 🌱 Learning **ASP.NET**  
+
+- 🎓 4th-year Computer Engineering student  
+- 🌱 Learning **ASP.NET Core Web API**  
 - 💻 Improving my skills in **Fullstack Development** (Frontend & Backend)  
 - 🌟 Goal: Build effective web projects and improve my fullstack skills  
 
 ---
 
 ## 📫 Contact
+
+<a href="https://ardamantar.com.tr/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" alt="Website" />
+</a>
 <a href="https://www.linkedin.com/in/arda-mantar/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
 </a>
@@ -22,10 +27,13 @@
 ---
 
 ## 🛠️ Skills
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,scss,js,typescript,react,bootstrap" />
 
 ---
+
 ## 🐍 GitHub Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/ardamantar00/ardamantar00/output/github-contribution-grid-snake-dark.svg">
@@ -34,6 +42,3 @@
   <img alt="github contribution grid snake animation" 
        src="https://raw.githubusercontent.com/ardamantar00/ardamantar00/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
